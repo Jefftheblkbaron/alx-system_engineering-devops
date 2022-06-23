@@ -1,2 +1,2 @@
-4-li#!/bin/bash
+#!/bin/bash
 ls -la
